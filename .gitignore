@@ -2,7 +2,8 @@
 artifacts/
 bin/
 obj/
-wwwroot/
+wwwroot/Accounting
+wwwroot/Employee
 .dotnet/
 .nuget/
 .packages/
